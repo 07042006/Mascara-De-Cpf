@@ -16,7 +16,7 @@ Cirando máscara de cpf e telefone para formar input.
 
 3. Dê dois cliques no arquivo `index.html`.
 
-4. O porjeto abrirá no seu browser :)
+4. O projeto abrirá no seu browser :)
 
 ---
 ## ⚙ Tecnologias
